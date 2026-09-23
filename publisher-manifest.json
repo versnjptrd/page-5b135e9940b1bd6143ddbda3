@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "130e359f1c1db5ee5027acab",
+  "owner": "versnjptrd",
+  "repo": "page-5b135e9940b1bd6143ddbda3",
+  "title": "Sakura",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5b135e9940b1bd6143ddbda3",
+      "a": "Sakura",
+      "b": "2027官方最新地址导航",
+      "entity": "Sakura",
+      "brand": "Sakura",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "02920ee5cb6787689ce9ee8d7076b009d44914e0bf6bd4957e1820f3a555e147",
+      "content": {
+        "primary_entity": "Sakura",
+        "keyword1": "Sakura",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "Sakura 支持主流客户端，按设备系统选择对应版本并导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并完成客户端订阅导入，即可开始使用 Sakura 海外加速服务。",
+          "AI_CLOSING_TITLE": "开始配置 Sakura",
+          "AI_DESCRIPTION": "，以套餐化流量与设备数为核心，提供基础版、旗舰版和团队版三档选择，覆盖订阅导入、客户端配置和流媒体解锁等常见使用场景，适合个人、多设备用户及小型团队按需选用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度了解 Sakura 的套餐结构。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，适合单人手机与电脑同时使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 支持 5 台设备，含 IPLC 专线并优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 支持 20 台设备，可定制企业路由并配专属经理。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按团队规模选套餐",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Sakura 是一款面向海外网络访问需求的加速服务，按月或按年提供多档套餐，流量与设备数量清晰可对比。用户可根据使用场景选择基础版、旗舰版或团队版，并在不同设备上导入订阅完成配置。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "流量与设备数清晰对比",
+          "AI_HIGHLIGHT_3": "支持主流客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350、¥850，按流量和设备数挑选即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线的设备数量，在基础版、旗舰版与团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限和线路类型，确认是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "在对应设备客户端中新建订阅并导入服务地址，保存后连接节点即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_VISUAL_TITLE": "Sakura 海外加速",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备并含 IPLC 专线；团队版每月 1000GB，支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "Windows 和 macOS 常用 Clash 或同类客户端，Android 可选 Clash for Android 或 v2rayNG，iOS 可在非中国大陆区商店获取 Shadowrocket 等工具。具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "登录后复制订阅链接，在客户端中选择从 URL 导入或粘贴订阅地址，更新节点列表即可。不同客户端菜单位置略有差异，可按对应文档操作。",
+          "AI_FAQ_ANSWER_4": "基础版适合手机、平板等 1 至 3 台设备；旗舰版适合同时使用电脑、手机和电视盒子的用户；团队版适合 5 台以上设备或多成员共享场景。",
+          "AI_FAQ_ANSWER_5": "月付适合短期体验，年付方案基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用年付更省。可以先月付试用再转年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Sakura 各套餐包含多少流量和设备数？",
+          "AI_FAQ_QUESTION_2": "Windows、macOS、Android 和 iOS 分别用什么客户端？",
+          "AI_FAQ_QUESTION_3": "如何把订阅导入到客户端？",
+          "AI_FAQ_QUESTION_4": "不同套餐适合哪些设备场景？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更划算？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "caifugy.cn",
+    "host": "caifugy.cn"
+  },
+  "file_hashes": {
+    "index.html": "8db06dc948e68a7fcfa00b8fbe182821997a2051d458b8bfdc0adff2d894487d",
+    "sitemap.xml": "b9ff194a508f393e37a513f485f2efa53d6509885065051d54c09c2a4fdb0cea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f283e4c5f4972481296056a3b272e7bc4cb8230f4c1e843de36bb7e7e2e20481",
+    "robots.txt": "009b620efee4e1da4ef55a6032519f0198f55efcb5e94d5c9da51322d16e4f6b",
+    "d6bfb4b746d0e4d4b2a2d3caea9b6298.txt": "8838eca05c34685d436b78e70aefe02f1ad1b5aa9cd6cdd9e2ce8b3c77e5710e"
+  },
+  "revision": "34f903011b74677fc1105a5121c46e1b1f37cc723787fba9ca174a9646e54436"
+}
